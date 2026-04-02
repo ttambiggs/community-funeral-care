@@ -144,8 +144,9 @@ nav {
 }
 
 .nav-logo img {
-  height: 44px;
-  width: auto;
+  height: 40px;
+  width: 40px;
+  object-fit: contain;
 }
 
 .nav-links {
@@ -192,7 +193,7 @@ nav {
 /* --- Hero --- */
 #hero {
   min-height: 100vh;
-  background: linear-gradient(160deg, var(--cream) 60%, var(--cream-warm) 100%);
+  background: var(--cream-warm);
   display: flex;
   align-items: center;
   justify-content: center;

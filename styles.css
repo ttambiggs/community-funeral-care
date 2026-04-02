@@ -142,8 +142,8 @@ nav {
 }
 
 .nav-logo img {
-  height: 42px;
-  width: 42px;
+  height: 44px;
+  width: auto;
   object-fit: contain;
 }
 

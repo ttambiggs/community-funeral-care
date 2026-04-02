@@ -193,7 +193,7 @@ nav {
 /* --- Hero --- */
 #hero {
   min-height: 100vh;
-  background: var(--cream-warm);
+  background: var(--gold);
   display: flex;
   align-items: center;
   justify-content: center;
